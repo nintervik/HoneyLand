@@ -15,8 +15,6 @@ This project has been done by two catalan students of CITM - UPC (Terrasa, Spain
 
 ## **Our Team**
 
-![](team_photo.jpg)
-
 _Mauri Costa, Julià's responsability and Bitbucket account_
 
 * Code and design
@@ -60,7 +58,9 @@ ___
 ### Controls
 ~~~~~~~~~~~~~~~
 
-TODO
+* To move around the camera use **WASD / ARROW keys**.
+* To zoom in/out use the mouse wheel.
+* Use **mouse left click** to interact with UI
 
 ~~~~~~~~~~~~~~~
 
