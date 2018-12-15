@@ -82,12 +82,22 @@ Local Forecast - Elevator Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 3.0 License
 http://creativecommons.org/licenses/by/3.0/
 
+
 ### *Sound FX*:
 
+This game uses these sounds from [freesound](https://freesound.org/):
 
+* [Bad notification](https://freesound.org/people/distillerystudio/sounds/327736/) by [distillerystudio](https://freesound.org/people/distillerystudio/)
+* [Cash register](https://freesound.org/people/kiddpark/sounds/201159/) by [kiddpark](https://freesound.org/people/kiddpark/)
+* [New honey](https://freesound.org/people/InspectorJ/sounds/411639/) by [InspectorJ](https://freesound.org/people/InspectorJ/)
+* [Good notification](https://freesound.org/people/InspectorJ/sounds/403018/) by [InspectorJ](https://freesound.org/people/InspectorJ/)
+
+
+Other sound fx:
+
+* [Construction sound](https://www.sounds-resource.com/pc_computer/warcraft2/sound/352/) from Warcraft
+* [Button sound](https://www.sounds-resource.com/pc_computer/ageofempiresii/sound/8818/) from Age of Empires
 	
-### *Fonts*:
-
 
 ***
 
