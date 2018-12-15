@@ -32,11 +32,12 @@ _Masó Garcia, Víctor's responsability and Bitbucket account_
 
 
 ## **Tools used**
-* IDE: Microsoft Visual Studio 2017
+* IDE: [Microsoft Visual Studio 2017](https://visualstudio.microsoft.com/vs/)
 * Language: C#
-* Repository: Bitbucket
-* NodeCanvas
-* Recast
+* Engine: [Unity](https://unity3d.com/) 
+* Repository: [Bitbucket](https://bitbucket.org/product)
+* Visual Behaviour Framework: [NodeCanvas](http://nodecanvas.paradoxnotion.com/)
+* Agents navigation: [Recast](https://assetstore.unity.com/packages/tools/ai/recastunity-recast-for-unity-7041)
 * Others: Adobe Photoshop CS6
 
 
