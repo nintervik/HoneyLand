@@ -65,6 +65,7 @@ _IMPORTANT: do not modify, change or add any folder or file as you might not be 
 ## **Credits for artwork, music/sound fx and fonts**
 
 ### *Sprites*:
+
 * Honey icon: icon made by [Freepick](https://www.freepik.com/) from [Flaticon](https://www.flaticon.com) 
 * Smiley icon: icon made by [Vectors Market](https://www.flaticon.com/authors/vectors-market) from [Flaticon](https://www.flaticon.com)
 * Sandclock icon: icon made by [Samashicons](https://smashicons.com/) from [Flaticon](https://www.flaticon.com)
@@ -72,8 +73,8 @@ _IMPORTANT: do not modify, change or add any folder or file as you might not be 
 * Beehive icon: icon made by [Freepick](https://www.freepik.com/) from [Flaticon](https://www.flaticon.com) 
 * Beehive icon: icon made by [Freepick](https://www.freepik.com/) from [Flaticon](https://www.flaticon.com) 
 * Flower icon: icon made by [Samashicons](https://smashicons.com/) from [Flaticon](https://www.flaticon.com)
-
-* No money icon: icon made by [Adib Sulthon](https://www.flaticon.com/authors/adib-sulthon) from [Flaticon](https://www.flaticon.com)
+* Twitter icon: icon made by [Freepick](https://www.freepik.com/) from [Flaticon](https://www.flaticon.com) 
+* Star icon: icon made by [Maxim Basinski](https://www.flaticon.com/authors/maxim-basinski) from [Flaticon](https://www.flaticon.com) 
 
 ### *Music*:
 
