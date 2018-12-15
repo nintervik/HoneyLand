@@ -51,6 +51,9 @@ _IMPORTANT: do not modify, change or add any folder or file as you might not be 
 
 ## **How to play**
 
+### Rules and systems
+
+// TODO
 
 
 ### Controls
