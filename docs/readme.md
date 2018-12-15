@@ -5,6 +5,10 @@
 
 This project has been done by two catalan students of CITM - UPC (Terrasa, Spain).
 
+> ### *Download the last version of the game [HERE](https://github.com/nintervik/Temple-Escape/releases/tag/v1.0)*
+
+***
+
 ## **About the game**
 
 
@@ -76,11 +80,6 @@ TODO
 ### *Fonts*:
 
 
-___
-
-> ### *Download the last version of the game [HERE](https://github.com/nintervik/Temple-Escape/releases/tag/v1.0)*
-
-***
 ***
 
 ## **License**
