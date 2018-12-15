@@ -17,7 +17,7 @@ This project has been done by two catalan students of CITM - UPC (Terrasa, Spain
 
 ![](team_photo.jpg)
 
-_Mauri Costa, Guillermo's responsability and Bitbucket account_
+_Mauri Costa, Julià's responsability and Bitbucket account_
 
 * Code and design
 * [Bitbucket account](https://bitbucket.org/juliamauri/)
