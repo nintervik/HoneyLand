@@ -1,17 +1,15 @@
 
 ## **Our project** 
 
+This project consist of a small 10 minutes gameplay demo. This game project will put in practice the concepts of the IA classes we've done in university. The game based in a honey farm. The main goal is to make the business profitable.
 
+Agents move with our own coded steering behaviours and its general behaviours work with beahviour trees. The movement uses [Recast](https://assetstore.unity.com/packages/tools/ai/recastunity-recast-for-unity-7041) to calculate the path and [NodeCanvas](http://nodecanvas.paradoxnotion.com/) has been used as a visual behaviour framework.
 
 This project has been done by two catalan students of CITM - UPC (Terrasa, Spain).
 
 > ### *Download the last version of the game [HERE](https://github.com/nintervik/Temple-Escape/releases/tag/v1.0)*
 
 ***
-
-## **About the game**
-
-
 
 ## **Our Team**
 
@@ -24,9 +22,6 @@ _Masó Garcia, Víctor's responsability and Bitbucket account_
 
 * Code and design
 * [Bitbucket account](https://bitbucket.org/nintervik/)
-
-
-## **Main core subsystems of the game**
 
 
 ## **Tools used**
