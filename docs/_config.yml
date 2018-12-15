@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+title: [Honey Land]
+description: [A game for AI subject]
+show_downloads: ["true"]
