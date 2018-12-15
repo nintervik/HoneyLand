@@ -58,9 +58,9 @@ ___
 ### Controls
 ~~~~~~~~~~~~~~~
 
-* To move around the camera use **WASD / ARROW keys**.
+* To move around the camera use *WASD / ARROW keys*.
 * To zoom in/out use the mouse wheel.
-* Use **mouse left click** to interact with UI
+* Use *mouse left click* to interact with UI
 
 ~~~~~~~~~~~~~~~
 
