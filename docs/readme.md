@@ -1,5 +1,5 @@
 
-## **Our project** 
+## **Project overview** 
 
 This project consist of a small 10 minutes gameplay demo. This game project will put in practice the concepts of the IA classes we've done in university. The game based in a honey farm. The main goal is to make the business profitable.
 
