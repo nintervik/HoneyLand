@@ -35,16 +35,16 @@ _Masó Garcia, Víctor's responsability and Bitbucket account_
 
 
 ## **Gameplay**
-___
+
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/isoApESpyFE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-___
+
 ## **Installation instructions**
 
 Download the zip file and unzip it. Open the folder, execute the .exe and enjoy!
 
 _IMPORTANT: do not modify, change or add any folder or file as you might not be able to execute the game._
-___
+
 
 ## **How to play**
 
@@ -63,7 +63,11 @@ ___
 ## **Credits for artwork, music/sound fx and fonts**
 
 ### *Sprites*:
-
+* Honey icon: icon made by [freepick](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com) 
+* Smiley icon: icon made by [Vectors Market](https://www.flaticon.com/authors/vectors-market) from [Flaticon](https://www.flaticon.com)
+* Sandclock icon: icon made by [Samash icons](https://www.flaticon.com/authors/smashicons) from [Flaticon](https://www.flaticon.com)
+* Angry face icon: icon made by [Twitter](https://www.flaticon.com/authors/twitter) from [Flaticon](https://www.flaticon.com)
+* No money icon: icon made by [Adib Sulthon](https://www.flaticon.com/authors/adib-sulthon) from [Flaticon](https://www.flaticon.com)
 
 ### *Music*:
 
