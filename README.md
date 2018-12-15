@@ -1,4 +1,4 @@
-# HoneyLand
+# Honey Land
 
 This repository is only used as a base for hosting the game website with GitHub pages. The source code is currently hosted in a private repository in Bitbucket. 
 
