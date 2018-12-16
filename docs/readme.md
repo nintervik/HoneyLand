@@ -61,7 +61,8 @@ _IMPORTANT: do not modify, change or add any folder or file as you might not be 
 
 * To move around the camera use WASD / ARROW keys.
 * To zoom in/out use the mouse wheel.
-* Use mouse left click to interact with UI
+* Use mouse left click to interact with UI.
+* ESC to pause the game.
 
 ~~~~~~~~~~~~~~~
 
