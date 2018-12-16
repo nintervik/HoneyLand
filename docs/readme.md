@@ -41,7 +41,7 @@ _Masó Garcia, Víctor's responsability and Bitbucket account_
 
 ## **Gameplay**
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/isoApESpyFE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="1038" height="584" src="https://www.youtube.com/embed/7GM4oMx0V1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## **Installation instructions**
