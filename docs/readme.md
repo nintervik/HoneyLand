@@ -51,9 +51,9 @@ _IMPORTANT: do not modify, change or add any folder or file as you might not be 
 
 ## **How to play**
 
-### Rules and systems
-
-// TODO
+* Win the game by having no no debts after 3 days
+* Contract, build and plant to increase honey production and quality and control the price.
+* Try to be as popular as possible. More popular means more exigents customers but with more money! Be aware of the tweet feed!
 
 
 ### Controls
