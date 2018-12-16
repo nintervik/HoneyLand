@@ -3,6 +3,8 @@
 
 This project consist of a small 10 minutes gameplay demo. This game project will put in practice the concepts of the IA classes we've done in university. 
 
+![hl](https://user-images.githubusercontent.com/25589509/50059003-5d587d00-0181-11e9-9a7a-9904c1506aff.PNG)
+
 The game is based in a honey farm. The main goal is to make the business profitable.
 
 Agents move with our own coded steering behaviours and its general behaviours work with beahviour trees. The movement uses [Recast](https://assetstore.unity.com/packages/tools/ai/recastunity-recast-for-unity-7041) to calculate the path and [NodeCanvas](http://nodecanvas.paradoxnotion.com/) has been used as a visual behaviour framework.
